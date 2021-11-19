@@ -1,4 +1,8 @@
 /*body { */
+body {
+ background-color:  turquoise;
+}
+
 /*height: 100%; */
 /*width: 100%; */
 /*} */
@@ -11,6 +15,28 @@
 /* padding: 50px; */
 /*	padding-top: 20px;*/
 /*	padding-right: 19px;*/
-/*	background-color:    salmon;*/
+/*	background-color: salmon; */
 /*	margin: 70px; */
 /* } */
+
+/* this turns the heading red */
+/* h1 { */
+/* color: red; */
+/*background-color: chartreuse; */
+/* } */
+/* p { */
+/*color: blue; */
+/* } */
+
+/* .orange {*/
+/*backgroud-color: orange; */
+/* } */
+
+/* }*/
+/*  #red*/
+/* */
+/* */
+/* */
+/* */
+/* */
+/* */
